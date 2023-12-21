@@ -1,0 +1,12 @@
+name: AutoSeed
+version: '${project.version}'
+main: me.matthewstevens.autoseed.AutoSeed
+api-version: '1.20'
+author: Mrzeapple
+commands:
+  autoseedreload:
+    description: Reload the config
+  autoseedtoggle:
+    description: Toggles Auto Seeding in a radius
+  autoseedradius:
+    description: Sets the max radius the seeds will plant

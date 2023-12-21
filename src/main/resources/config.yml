@@ -1,0 +1,4 @@
+radius: 5
+enabled-players:
+  - 'player1'
+  - 'player2'
